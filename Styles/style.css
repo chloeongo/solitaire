@@ -1,0 +1,18 @@
+body {
+  background-color: #edf2f4;
+  margin: 0;
+}
+
+header {
+  padding: 15px;
+  width: auto;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#indexTitle {
+  color: #d90429;
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Playwrite DE SAS";
+}
